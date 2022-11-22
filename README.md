@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software/DevOps Development Projects:</h2>
 
 - <b>Python</b>
-  - [Combining two excel workbooks](https://github.com/deresolution20/Google-Colab-combine-two-excel-wbks)
+  - [Combining two excel workbooks as a data source for Google Data Studio](https://github.com/deresolution20/Google-Colab-combine-two-excel-wbks)
 - <b>Bash scripting</b>
   - [VM - Building a Cardano relay node - Production](https://github.com/deresolution20/Cardano-Mainnet-Relay-Node)
   - [VM - Building a Cardano relay node - Test](https://github.com/deresolution20/Cardano-TestNet-Relay-node)
