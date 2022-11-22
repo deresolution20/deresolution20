@@ -7,6 +7,10 @@
 - <b>Bash scripting</b>
   - [VM - Building a Cardano relay node - Production](https://github.com/deresolution20/Cardano-Mainnet-Relay-Node)
   - [VM - Building a Cardano relay node - Test](https://github.com/deresolution20/Cardano-TestNet-Relay-node)
+- <b>Powershell</b>
+  - [DiskWipe - wipe a hard drive](https://github.com/deresolution20/DiskWipe.Powershell)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BriceNeal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
