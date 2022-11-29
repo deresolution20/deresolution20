@@ -10,7 +10,7 @@
 - <b>Powershell</b>
   - [DiskWipe - wipe a hard drive](https://github.com/deresolution20/DiskWipe.Powershell)
 
-<h2>DevOps - Vagrant</h2>
+<h4>DevOps - Vagrant</h4>
 
 - <b>Local machine IaC using Vagrant</b>
   - [Vprofile project](https://github.com/deresolution20/vprofile-project/tree/automated)
