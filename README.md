@@ -2,18 +2,20 @@
 
 <h2>👨‍💻 Software/DevOps Development Projects:</h2>
 
-- <b>Python</b>
-  - [Combining two excel workbooks as a data source for Google Data Studio](https://github.com/deresolution20/Google-Colab-combine-two-excel-wbks)
+<h4>DevOps - Vagrant</h4>
+
+- <b>Local machine IaC using Vagrant</b>
+  - [Vprofile project](https://github.com/deresolution20/vprofile-project/tree/automated)
+
+
 - <b>Bash scripting</b>
   - [VM - Building a Cardano relay node - Production](https://github.com/deresolution20/Cardano-Mainnet-Relay-Node)
   - [VM - Building a Cardano relay node - Test](https://github.com/deresolution20/Cardano-TestNet-Relay-node)
 - <b>Powershell</b>
   - [DiskWipe - wipe a hard drive](https://github.com/deresolution20/DiskWipe.Powershell)
+- <b>Python</b>
+  - [Combining two excel workbooks as a data source for Google Data Studio](https://github.com/deresolution20/Google-Colab-combine-two-excel-wbks)
 
-<h4>DevOps - Vagrant</h4>
-
-- <b>Local machine IaC using Vagrant</b>
-  - [Vprofile project](https://github.com/deresolution20/vprofile-project/tree/automated)
 
 <h2> 🤳 Connect with me:</h2>
 
