@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Software/DevOps Development Projects:</h2>
 
+<h4>DevOps - Docker</h4>
+
+- <b>Building Docker image</b>
+  - [ML Project](https://github.com/deresolution20/ML_basic_Docker_image/tree/main)
+
 <h4>DevOps - Vagrant</h4>
 
 - <b>Local machine IaC using Vagrant</b>
