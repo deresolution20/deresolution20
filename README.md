@@ -2,6 +2,12 @@
 
 <h2>👨‍💻 Software/DevOps Development Projects:</h2>
 
+<h4>DevOps - AWS </h4>
+
+- <b>Cloud resume challenge</b>
+  - [resume website](http://resume.deresolution22.com/)
+  - [GitHub](https://github.com/deresolution20/Cloud-resume-challenge)
+ 
 <h4>DevOps - Docker</h4>
 
 - <b>Building Docker image</b>
