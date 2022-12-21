@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software/DevOps Development Projects:</h2>
 
-<h4>DevOps - AWS </h4>
+<h4>AWS </h4>
 
 - <b>Cloud resume challenge</b>
   - [resume website](http://resume.deresolution22.com/)
