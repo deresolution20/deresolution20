@@ -13,9 +13,9 @@
 - <b>Building Docker image</b>
   - [ML Project](https://github.com/deresolution20/ML_basic_Docker_image/tree/main)
 
-<h4>DevOps - Vagrant</h4>
+<h4>DevOps - Local Machine - Vagrant</h4>
 
-- <b>Local machine IaC using Vagrant</b>
+- <b>IaC using Vagrant</b>
   - [Vprofile project](https://github.com/deresolution20/vprofile-project/tree/automated)
 
 
