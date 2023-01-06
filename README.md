@@ -7,6 +7,11 @@
 - <b>Cloud resume challenge</b>
   - [resume website](http://resume.deresolution22.com/)
   - [GitHub](https://github.com/deresolution20/Cloud-resume-challenge)
+
+<h4>DevOps - Terraform</h4>
+
+- <b>Build a dev env with Terraform </b>
+  - [tf-dev-env](https://github.com/deresolution20/tf-dev-env/tree/main)
  
 <h4>DevOps - Docker</h4>
 
