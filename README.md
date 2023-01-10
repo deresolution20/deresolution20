@@ -6,7 +6,7 @@
 
 - <b>Cloud resume challenge</b>
   - [resume website](http://resume.deresolution22.com/)
-  - [GitHub](https://github.com/deresolution20/Cloud-resume-challenge)
+  - [GitHub](https://github.com/deresolution20/cloud-resume-challenge-tf)
 
 <h4>DevOps - Terraform</h4>
 
