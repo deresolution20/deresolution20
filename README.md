@@ -21,7 +21,7 @@
 <h4>DevOps - Docker</h4>
 
 - <b>Deploying Docker stack to test Grafana and Prometheusdb</b>
-  - [Portainer](https://github.com/deresolution20/grafana-test)
+  - [Grafana and Prometheus](https://github.com/deresolution20/grafana-test)
 
 <h4>DevOps - Local Machine - Vagrant</h4>
 
