@@ -20,8 +20,8 @@
  
 <h4>DevOps - Docker</h4>
 
-- <b>Building Docker image</b>
-  - [ML Project](https://github.com/deresolution20/ML_basic_Docker_image/tree/main)
+- <b>Deploying Docker stack to test Grafana and Prometheusdb</b>
+  - [Portainer](https://github.com/deresolution20/grafana-test)
 
 <h4>DevOps - Local Machine - Vagrant</h4>
 
