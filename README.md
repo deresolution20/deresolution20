@@ -16,7 +16,10 @@
 - <b>Deploying kubernetes cluster and nginx using terraform </b>
   - [tf-kube-nginx](https://github.com/deresolution20/tf-deploy-nginix-kubernetes)
 
- 
+<h4>Observability</h4>
+
+- <b> Built a nodejs test server for k6 load testing </b>
+  - [k6perf-test](https://github.com/deresolution20/k6perf-test)
  
 <h4>DevOps - Docker</h4>
 
