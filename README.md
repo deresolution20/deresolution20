@@ -20,6 +20,9 @@
 
 - <b> Built a nodejs test server for k6 load testing </b>
   - [k6perf-test](https://github.com/deresolution20/k6perf-test)
+
+- <b> Testing the difference between uptime and reachability in Grafana Synthetic monitoring </b>
+  - [SM-uptime_reach-test](https://github.com/deresolution20/Grafana_synth-monit-uptime_lab/tree/main)
  
 <h4>DevOps - Docker</h4>
 
