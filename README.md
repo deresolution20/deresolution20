@@ -44,6 +44,7 @@
 - <b>Powershell</b>
   - [DiskWipe - wipe a hard drive](https://github.com/deresolution20/DiskWipe.Powershell)
 - <b>Python</b>
+  - [Web scraper for product availability](https://github.com/deresolution20/N64_controller_web_scraper/tree/main)
   - [Combining two excel workbooks as a data source for Google Data Studio](https://github.com/deresolution20/Google-Colab-combine-two-excel-wbks)
 
 
