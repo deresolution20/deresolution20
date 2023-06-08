@@ -24,7 +24,7 @@
 - <b> Testing the difference between uptime and reachability in Grafana Synthetic monitoring </b>
   - [SM-uptime_reach-test](https://github.com/deresolution20/Grafana_synth-monit-uptime_lab/tree/main)
 
-- <b> Built a basic Front end CRUD Dullstack app to test Grafana Faro </b>
+- <b> Built a basic Front end CRUD Fullstack app to test Grafana Faro </b>
   - [Faro-frontend-test](https://github.com/deresolution20/Faro_basic-frontend/tree/main)
  
 <h4>DevOps - Docker</h4>
