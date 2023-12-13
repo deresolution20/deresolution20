@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Software/DevOps Development Projects:</h2>
 
+<h4>AI Projects </h4>
+
+- <b>Custom GPTs</b>
+  - [Custom Monster Manual Creator](https://github.com/deresolution20/MonsterManual_GPT/tree/main)
+
 <h4>AWS </h4>
 
 - <b>Cloud resume challenge</b>
