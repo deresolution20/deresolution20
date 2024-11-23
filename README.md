@@ -23,6 +23,9 @@
 
 <h4>Observability</h4>
 
+- <b> Deploy Grafana Enterprise and GEM on minikube </b>
+  - [k8s GEM](https://github.com/deresolution20/Grafana-enterprise-and-GEM-minikube)
+
 - <b> Built a nodejs test server for k6 load testing </b>
   - [k6perf-test](https://github.com/deresolution20/k6perf-test)
 
