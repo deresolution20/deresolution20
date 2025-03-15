@@ -18,8 +18,6 @@
 - <b>Build a dev env with Terraform </b>
   - [tf-dev-env](https://github.com/deresolution20/tf-dev-env/tree/main)
   
-- <b>Deploying kubernetes cluster and nginx using terraform </b>
-  - [tf-kube-nginx](https://github.com/deresolution20/tf-deploy-nginix-kubernetes)
 
 <h4>Observability</h4>
 
