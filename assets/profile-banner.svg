@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1f2433"/>
+    </linearGradient>
+    <radialGradient id="obs" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f46801" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f46801" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ai" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8957e5" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#8957e5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cr" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff69b4" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ff69b4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="300" cy="160" r="120" fill="url(#obs)"/>
+  <circle cx="600" cy="160" r="120" fill="url(#ai)"/>
+  <circle cx="900" cy="160" r="120" fill="url(#cr)"/>
+  <text x="600" y="70" font-family="Segoe UI, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#e6edf3" text-anchor="middle">Brice</text>
+  <text x="600" y="105" font-family="Segoe UI, Helvetica, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle">Support Engineer  ·  AI Automation Consultant</text>
+  <text x="300" y="250" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" fill="#f46801" text-anchor="middle">Observability</text>
+  <text x="600" y="250" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" fill="#8957e5" text-anchor="middle">AI Automation</text>
+  <text x="900" y="250" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" fill="#ff69b4" text-anchor="middle">Creative</text>
+</svg>
