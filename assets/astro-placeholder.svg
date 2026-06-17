@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <defs>
+    <radialGradient id="neb" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#5e60ce"/>
+      <stop offset="40%" stop-color="#6930c3"/>
+      <stop offset="80%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </radialGradient>
+    <radialGradient id="star" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#neb)"/>
+  <circle cx="120" cy="80" r="2" fill="#fff"/>
+  <circle cx="520" cy="60" r="1.5" fill="#fff"/>
+  <circle cx="300" cy="120" r="2.5" fill="#fff"/>
+  <circle cx="480" cy="220" r="1" fill="#fff"/>
+  <circle cx="80" cy="300" r="1.5" fill="#fff"/>
+  <circle cx="600" cy="380" r="2" fill="#fff"/>
+  <circle cx="220" cy="380" r="1" fill="#fff"/>
+  <circle cx="400" cy="420" r="1.5" fill="#fff"/>
+  <circle cx="320" cy="200" r="60" fill="url(#star)" opacity="0.6"/>
+  <text x="320" y="450" font-family="Segoe UI, Helvetica, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle">Astrophotography — replace with your own shot</text>
+</svg>
