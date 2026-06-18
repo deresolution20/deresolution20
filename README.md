@@ -7,7 +7,7 @@
 
 # Brice
 
-### Support Engineer  ·  AI Automation Consultant  ·  Astrophotographer & Digital Artist
+### Observability Support Engineer  ·  AI Automation Consultant  ·  Astrophotographer & Digital Artist
 
 Day job: **Support Engineer at Grafana Labs** — metrics, logs, traces, dashboards, and SLOs that keep systems honest
 
