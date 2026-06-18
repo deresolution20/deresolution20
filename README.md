@@ -21,9 +21,8 @@ Creative outlet: **Astrophotographer & Digital Artist** — because code can be 
 
 | Metric | Value |
 |--------|-------|
-| Public Repos | 33 |
-| Total Stars | 2 |
-| Top Languages | Other, Shell, HCL, HTML, Python |
+| Focus | Quality over quantity — curated showcase repos |
+| Top Languages | Python, Go, Shell, HCL |
 
 ## Pinned Showcase
 
@@ -32,7 +31,7 @@ Hand-picked repositories that represent my best professional work:
 ### [mlx-mcp-server](https://github.com/deresolution20/mlx-mcp-server)
 > MCP server bridging Claude to local MLX LM (and any OpenAI-compatible backend)
 
-`Python`  |  Stars: 1  |  CI: yes  |  Tests: yes
+`Python`  |  CI: yes  |  Tests: yes  |  MIT License
 
 ## What I Build
 
