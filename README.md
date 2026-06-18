@@ -7,13 +7,11 @@
 
 # Brice
 
-### Observability Support Engineer  ·  AI Automation Consultant  ·  Astrophotographer & Digital Artist
+### Observability Support Engineer   ·  Astrophotographer & Digital Artist
 
 Day job: **Support Engineer at Grafana Labs** — metrics, logs, traces, dashboards, and SLOs that keep systems honest
 
-Side gig: **AI Automation Consultant** on [Upwork](https://www.upwork.com/) — I help businesses kill painful manual processes with LLM-powered automation
-
-Creative outlet: **Astrophotographer & Digital Artist** — because code can be beautiful too
+Creative outlet: **Astrophotographer & Digital Artist**
 
 ---
 
@@ -22,7 +20,7 @@ Creative outlet: **Astrophotographer & Digital Artist** — because code can be 
 | Metric | Value |
 |--------|-------|
 | Focus | Quality over quantity — curated showcase repos |
-| Top Languages | Python, Go, Shell, HCL |
+| Top Languages | Python, Go, javascript, HCL |
 
 ## Pinned Showcase
 
@@ -38,9 +36,8 @@ Hand-picked repositories that represent my best professional work:
 | Pillar | What it means |
 |--------|--------------|
 | **Observability** | Grafana, Prometheus, Loki, Tempo — production monitoring & SLOs |
-| **AI Automation** | LLM pipelines, RAG, workflow automation — real business ROI |
-| **Creative Code** | Astrophotography processing, generative art — engineering meets art |
-| **Professional** | Every visible repo: tested, CI'd, documented, licensed |
+| **Creative Code** | Astrophotography processing, digital art with Procreate and iPad |
+
 
 ## GitHub Stats
 
