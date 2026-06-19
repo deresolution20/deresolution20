@@ -19,12 +19,10 @@
     </radialGradient>
   </defs>
   <rect width="1200" height="320" fill="url(#bg)"/>
-  <circle cx="300" cy="160" r="120" fill="url(#obs)"/>
-  <circle cx="600" cy="160" r="120" fill="url(#ai)"/>
-  <circle cx="900" cy="160" r="120" fill="url(#cr)"/>
+  <circle cx="400" cy="160" r="120" fill="url(#obs)"/>
+  <circle cx="800" cy="160" r="120" fill="url(#cr)"/>
   <text x="600" y="70" font-family="Segoe UI, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#e6edf3" text-anchor="middle">Brice</text>
-    <text x="600" y="105" font-family="Segoe UI, Helvetica, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle">Observability Engineer  ·  AI Automation Consultant</text>
-  <text x="300" y="250" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" fill="#f46801" text-anchor="middle">Observability</text>
-  <text x="600" y="250" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" fill="#8957e5" text-anchor="middle">AI Automation</text>
-  <text x="900" y="250" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" fill="#ff69b4" text-anchor="middle">Creative</text>
+    <text x="600" y="105" font-family="Segoe UI, Helvetica, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle">Observability Engineer  ·  Astrophotographer & Digital Artist</text>
+  <text x="400" y="250" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" fill="#f46801" text-anchor="middle">Observability</text>
+  <text x="800" y="250" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" fill="#ff69b4" text-anchor="middle">Creative</text>
 </svg>
