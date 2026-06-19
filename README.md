@@ -9,8 +9,6 @@
 
 ### Observability Support Engineer   ·  Astrophotographer & Digital Artist
 
-Day job: **Support Engineer at Grafana Labs** — metrics, logs, traces, dashboards, and SLOs that keep systems honest
-
 Creative outlet: **Astrophotographer & Digital Artist**
 
 ---
