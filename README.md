@@ -70,14 +70,12 @@ When I'm not debugging pipelines or automating workflows, I'm capturing the cosm
 | Platform | Link |
 |----------|------|
 | GitHub | [github.com/deresolution20](https://github.com/deresolution20) |
-| Upwork | [Hire me for AI Automation](https://www.upwork.com/) |
-| Grafana Labs | [grafanalabs.com](https://grafana.com/) |
+
 
 ---
 
 <div align="center">
 
-<sub>This profile was built with the **GitHub Repo Redesign** skill — 
 audit, classify, clean, and brand your GitHub like a top 0.1% engineer.</sub>
 
 <sub>Last updated: 2026-06-17</sub>
