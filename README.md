@@ -54,7 +54,7 @@ Hand-picked repositories that represent my best professional work:
 
 ### Where Engineering Meets Art
 
-When I'm not debugging pipelines or automating workflows, I'm capturing the cosmos.
+When I'm not debugging pipelines, I'm capturing the cosmos.
 
 <table>
   <tr>
