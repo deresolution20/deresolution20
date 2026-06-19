@@ -7,9 +7,13 @@
 
 # Brice
 
-### Observability Support Engineer   ·  Astrophotographer & Digital Artist
+### Observability Engineer  ·  AI Automation Consultant  ·  Astrophotographer & Digital Artist
 
-Creative outlet: **Astrophotographer & Digital Artist**
+Observability: **Observability Engineer** — metrics, logs, traces, dashboards, and SLOs that keep systems honest
+
+Side gig: **AI Automation Consultant** on [Upwork](https://www.upwork.com/) — I help businesses kill painful manual processes with LLM-powered automation
+
+Creative outlet: **Astrophotographer & Digital Artist** — because code can be beautiful too
 
 ---
 
@@ -17,8 +21,9 @@ Creative outlet: **Astrophotographer & Digital Artist**
 
 | Metric | Value |
 |--------|-------|
-| Focus | Quality over quantity — curated showcase repos |
-| Top Languages | Python, Go, javascript, HCL |
+| Public Repos | 33 |
+| Total Stars | 2 |
+| Top Languages | Other, Shell, HCL, HTML, Python |
 
 ## Pinned Showcase
 
@@ -27,15 +32,16 @@ Hand-picked repositories that represent my best professional work:
 ### [mlx-mcp-server](https://github.com/deresolution20/mlx-mcp-server)
 > MCP server bridging Claude to local MLX LM (and any OpenAI-compatible backend)
 
-`Python`  |  CI: yes  |  Tests: yes  |  MIT License
+`Python`  |  Stars: 1  |  CI: yes  |  Tests: yes
 
 ## What I Build
 
 | Pillar | What it means |
 |--------|--------------|
-| **Observability** | Grafana, Prometheus, Loki, Tempo — production monitoring & SLOs |
-| **Creative Code** | Astrophotography processing, digital art with Procreate and iPad |
-
+| **Observability** | Prometheus, Loki, Tempo — production monitoring & SLOs |
+| **AI Automation** | LLM pipelines, RAG, workflow automation — real business ROI |
+| **Creative Code** | Astrophotography processing, generative art — engineering meets art |
+| **Professional** | Every visible repo: tested, CI'd, documented, licensed |
 
 ## GitHub Stats
 
@@ -54,7 +60,7 @@ Hand-picked repositories that represent my best professional work:
 
 ### Where Engineering Meets Art
 
-When I'm not debugging pipelines, I'm capturing the cosmos.
+When I'm not debugging pipelines or automating workflows, I'm capturing the cosmos.
 
 <table>
   <tr>
@@ -70,14 +76,13 @@ When I'm not debugging pipelines, I'm capturing the cosmos.
 | Platform | Link |
 |----------|------|
 | GitHub | [github.com/deresolution20](https://github.com/deresolution20) |
-
+| Upwork | [Hire me for AI Automation](https://www.upwork.com/) |
 
 ---
 
 <div align="center">
 
-audit, classify, clean, and brand your GitHub like a top 0.1% engineer.</sub>
 
-<sub>Last updated: 2026-06-17</sub>
+<sub>Last updated: 2026-06-19</sub>
 
 </div>
