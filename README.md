@@ -3,15 +3,13 @@
 <!-- Creative splash: gradient banner with three brand pillars -->
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Brice — Observability + AI Automation + Creative" width="800" />
+<img src="assets/profile-banner.svg" alt="Brice — Observability + Creative" width="800" />
 
 # Brice
 
-### Observability Engineer  ·  AI Automation Consultant  ·  Astrophotographer & Digital Artist
+### Observability Engineer  ·  Astrophotographer & Digital Artist
 
 Observability: **Observability Engineer** — metrics, logs, traces, dashboards, and SLOs that keep systems honest
-
-Side gig: **AI Automation Consultant** on [Upwork](https://www.upwork.com/) — I help businesses kill painful manual processes with LLM-powered automation
 
 Creative outlet: **Astrophotographer & Digital Artist** — because code can be beautiful too
 
@@ -39,7 +37,6 @@ Hand-picked repositories that represent my best professional work:
 | Pillar | What it means |
 |--------|--------------|
 | **Observability** | Prometheus, Loki, Tempo — production monitoring & SLOs |
-| **AI Automation** | LLM pipelines, RAG, workflow automation — real business ROI |
 | **Creative Code** | Astrophotography processing, generative art — engineering meets art |
 | **Professional** | Every visible repo: tested, CI'd, documented, licensed |
 
@@ -76,7 +73,6 @@ When I'm not debugging pipelines or automating workflows, I'm capturing the cosm
 | Platform | Link |
 |----------|------|
 | GitHub | [github.com/deresolution20](https://github.com/deresolution20) |
-| Upwork | [Hire me for AI Automation](https://www.upwork.com/) |
 
 ---
 
