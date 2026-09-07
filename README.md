@@ -72,6 +72,8 @@ Nights: building local AI tooling that keeps data off the cloud.
 ![Claude](https://img.shields.io/badge/Claude_API-F46801?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![LanceDB](https://img.shields.io/badge/LanceDB-1A1A2E?style=for-the-badge)
+![Gmktec EVO X-2](https://img.shields.io/badge/Gmktec_EVO_X-2-Strix_Halo_128GB-ED1C24?style=for-the-badge)
+![Qwen 3.8 Flash](https://img.shields.io/badge/Qwen_3.8_Flash-local-1A1A2E?style=for-the-badge)
 
 **Infrastructure & Languages**
 
