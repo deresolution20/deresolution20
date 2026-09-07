@@ -13,7 +13,33 @@ Nights: building local AI tooling that keeps data off the cloud.
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### [farside](https://github.com/deresolution20/farside)
+
+> Four rover-survey campaigns on three moons (the Moon, Ganymede, Callisto) in a single browser tab. WebGL2, ES modules, vendored three.js; zero dependencies, zero build step, zero assets. All geometry, textures and audio are generated at load time. About 410 KB gzipped.
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![three.js](https://img.shields.io/badge/three.js-DAA520?style=for-the-badge&logo=threejs&logoColor=white)
+![WebGL2](https://img.shields.io/badge/WebGL2-1A1D24?style=for-the-badge)
+![No assets](https://img.shields.io/badge/no_assets-0-238636?style=for-the-badge)
+
+</div>
+
+### [mote](https://github.com/deresolution20/mote)
+
+> Fully local, offline voice dictation for macOS. Hold a key and speak: transcribed on-device (Parakeet v3 on the Apple Neural Engine), cleaned by a local LLM (fillers, punctuation), then inserted at your cursor. No cloud, no account, nothing leaves the machine.
+
+<div align="center">
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Apple_Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Neural Engine](https://img.shields.io/badge/Neural_Engine-ASR-6E40C9?style=for-the-badge)
+![Offline](https://img.shields.io/badge/offline-no_network-008000?style=for-the-badge)
+
+</div>
 
 ### [mlx-mcp-server](https://github.com/deresolution20/mlx-mcp-server)
 
